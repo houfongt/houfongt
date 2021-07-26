@@ -63,10 +63,14 @@
 ### Others:
 [<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
 
+<br />
+
 ## Lifestyle
 [<img align="left" alt="Apple Music" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applemusic.svg" />][appleMusic]
 [<img align="left" alt="Apple Pay" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applepay.svg" />][applePay]
+[<img align="left" alt="iCloud" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/icloud.svg" />][icloud]
 
+<br />
 
 ---
 
@@ -98,3 +102,5 @@
 [materialDesign]: https://material.io/
 [appleMusic]: https://www.apple.com/apple-music/
 [applePay]: https://www.apple.com/apple-pay/
+[googleDomains]: https://domains.google
+[icloud]: https://www.apple.com/icloud
