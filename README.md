@@ -67,6 +67,7 @@
 
 ## Lifestyle
 - [<img align="left" alt="Apple Music" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applemusic.svg" />][appleMusic] I use Apple Music as my music streaming platform.
+  <br />
 - [<img align="left" alt="Apple Pay" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applepay.svg" />][applePay] I love using Apple Pay.
 - [<img align="left" alt="Contactless Payment" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/contactlesspayment.svg" />][contactlessPayment] Contactless Payment.. lol..
 - [<img align="left" alt="iCloud" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/icloud.svg" />][icloud] I use iCloud.
