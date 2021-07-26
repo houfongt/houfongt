@@ -79,6 +79,8 @@
 
 ---
 
+Copyright © 2021 JetBrains s.r.o. WebStorm and the Webstorm logo are registered trademarks of JetBrains s.r.o.
+
 [website]: https://www.quahk.com
 [email]: mailto:edward@quahk.com
 [instagram]: https://instagram.com/edward_swalker
