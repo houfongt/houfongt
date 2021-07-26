@@ -30,7 +30,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" />][figma]
+[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />][figma]
 [<img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/canva.svg" />][canva]
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
 [<img align="left" alt="StackOverflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" />][stackoverflow]
@@ -54,7 +54,7 @@
 ### iOS Development:
 [<img align="left" alt="xCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />][xcode]
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swift]
-[<img align="left" alt="SwiftUI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swiftui/swiftui.png" />][swiftui]
+[<img align="left" alt="SwiftUI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/swiftui/swiftui.png" />][swiftui]
 
 ### Others:
 [<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
