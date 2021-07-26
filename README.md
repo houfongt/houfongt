@@ -68,7 +68,11 @@
 ## Lifestyle
 [<img align="left" alt="Apple Music" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applemusic.svg" />][appleMusic]
 [<img align="left" alt="Apple Pay" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applepay.svg" />][applePay]
+[<img align="left" alt="Contactless Payment" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/contactlesspayment.svg" />][contactlessPayment]
 [<img align="left" alt="iCloud" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/icloud.svg" />][icloud]
+[<img align="left" alt="Signal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/signal.svg" />][signal]
+[<img align="left" alt="Minecraft" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/minecraft/minecraft.png" />][minecraft]
+
 
 <br />
 
@@ -104,3 +108,6 @@
 [applePay]: https://www.apple.com/apple-pay/
 [googleDomains]: https://domains.google
 [icloud]: https://www.apple.com/icloud
+[signal]: https://www.signal.org
+[contactlessPayment]: https://en.wikipedia.org/wiki/Contactless_payment
+[minecraft]: https://minecraft.net
