@@ -35,6 +35,8 @@
 [<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" />][figma]
 [<img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/canva.svg" />][canva]
 
+<br />
+
 ### Web Development:
 [<img align="left" alt="WebStorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/webstorm.svg" />][webstormWebsite]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
