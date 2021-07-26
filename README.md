@@ -41,6 +41,7 @@
 ### Web Development:
 [<img align="left" alt="WebStorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/webstorm.svg" />][webstormWebsite]
 [<img align="left" alt="CodePen" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codepen.svg" />][codepen]
+[<img align="left" alt="Google Domains" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googledomains.svg" />][googleDomains]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
@@ -48,6 +49,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][jquery]
+[<img align="left" alt="Material Design" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png" />][materialDesign]
 
 <br />
 
@@ -56,8 +58,15 @@
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swift]
 [<img align="left" alt="SwiftUI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/swiftui/swiftui.png" />][swiftui]
 
+<br />
+
 ### Others:
 [<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
+
+## Lifestyle
+[<img align="left" alt="Apple Music" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applemusic.svg" />][appleMusic]
+[<img align="left" alt="Apple Pay" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applepay.svg" />][applePay]
+
 
 ---
 
@@ -86,3 +95,6 @@
 [jquery]: https://jquery.com/
 [stackoverflow]: https://stackoverflow.com/
 [udemy]: https://www.udemy.com
+[materialDesign]: https://material.io/
+[appleMusic]: https://www.apple.com/apple-music/
+[applePay]: https://www.apple.com/apple-pay/
