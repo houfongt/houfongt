@@ -35,6 +35,7 @@
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
 [<img align="left" alt="StackOverflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Udemy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/udemy.svg" />][udemy]
+[<img align="left" alt="Grammarly" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/grammarly.svg" />][grammarly]
 
 <br />
 
@@ -113,3 +114,4 @@
 [minecraft]: https://minecraft.net
 [macOS]: https://www.apple.com/macos
 [iOS]: https://www.apple.com/ios
+[grammarly]: https://www.grammarly.com
