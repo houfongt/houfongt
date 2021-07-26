@@ -72,7 +72,8 @@
 [<img align="left" alt="iCloud" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/icloud.svg" />][icloud]
 [<img align="left" alt="Signal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/signal.svg" />][signal]
 [<img align="left" alt="Minecraft" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/minecraft/minecraft.png" />][minecraft]
-
+[<img align="left" alt="macOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][macOS]
+[<img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />][iOS]
 
 <br />
 
@@ -111,3 +112,5 @@
 [signal]: https://www.signal.org
 [contactlessPayment]: https://en.wikipedia.org/wiki/Contactless_payment
 [minecraft]: https://minecraft.net
+[macOS]: https://www.apple.com/macos
+[iOS]: https://www.apple.com/ios
