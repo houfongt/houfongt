@@ -68,12 +68,11 @@
 ## Lifestyle
 - [<img align="left" alt="Apple Music" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applemusic.svg" />][appleMusic] I use Apple Music as my music streaming platform.
 - [<img align="left" alt="Apple Pay" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applepay.svg" />][applePay] I love using Apple Pay.
-- [<img align="left" alt="Contactless Payment" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/contactlesspayment.svg" />][contactlessPayment]
-- [<img align="left" alt="iCloud" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/icloud.svg" />][icloud]
-- [<img align="left" alt="Signal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/signal.svg" />][signal]
-- [<img align="left" alt="Minecraft" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/minecraft/minecraft.png" />][minecraft]
-- [<img align="left" alt="macOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][macOS]
-- [<img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />][iOS]
+- [<img align="left" alt="Contactless Payment" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/contactlesspayment.svg" />][contactlessPayment] Contactless Payment.. lol..
+- [<img align="left" alt="iCloud" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/icloud.svg" />][icloud] I use iCloud.
+- [<img align="left" alt="Signal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/signal.svg" />][signal] I use signal for my main communication software.
+- [<img align="left" alt="Minecraft" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/minecraft/minecraft.png" />][minecraft] I play Minecraft.
+- [<img align="left" alt="macOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][macOS] Using a Mac to develop.
 
 <br />
 
