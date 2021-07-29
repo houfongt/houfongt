@@ -9,6 +9,34 @@
 - 🥅 2021 Goals: Master JavaScript
 - ⚡ Quote that I learned in this week: he that commits a fault thinks everyone speaks of it
 
+<br />
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/2) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
+2. 💪 Opened PR [#2](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/2) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
+3. 🎉 Merged PR [#1](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/1) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
+4. 💪 Opened PR [#1](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/1) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+<summary>:zap: GitHub Stats</summary>
+<br>
+
+[![Edward's GitHub Stats](https://github-readme-stats-edwardswalker.vercel.app/api?username=EdwardSwalker&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/EdwardSwalker/github-readme-stats)
+</details>
+
+<details>
+<summary>:zap: Most Used Languages</summary>
+<br>
+
+[![Edward's Top Langs](https://github-readme-stats-edwardswalker.vercel.app/api/top-langs/?username=EdwardSwalker&layout=compact)](https://github.com/EdwardSwalker/github-readme-stats)
+</details>
+
 ### Connect with me:
 
 [comment]: <> ([<img align="left" alt="quahk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website])
@@ -75,33 +103,6 @@
 [<img align="left" alt="macOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][macOS] 
 
 <br />
-
----
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/2) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
-2. 💪 Opened PR [#2](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/2) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
-3. 🎉 Merged PR [#1](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/1) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
-4. 💪 Opened PR [#1](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/1) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-<summary>:zap: GitHub Stats</summary>
-<br>
-
-[![Edward's GitHub Stats](https://github-readme-stats-edwardswalker.vercel.app/api?username=EdwardSwalker&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/EdwardSwalker/github-readme-stats)
-</details>
-
-<details>
-<summary>:zap: Most Used Languages</summary>
-<br>
-
-[![Edward's Top Langs](https://github-readme-stats-edwardswalker.vercel.app/api/top-langs/?username=EdwardSwalker&layout=compact)](https://github.com/EdwardSwalker/github-readme-stats)
-</details>
 
 ---
 
