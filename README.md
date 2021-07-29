@@ -79,7 +79,10 @@
 
 ---
 
-[![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardSwalker&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardSwalker&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Edward's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardSwalker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 Copyright © 2021 JetBrains s.r.o. WebStorm and the Webstorm logo are registered trademarks of JetBrains s.r.o.
