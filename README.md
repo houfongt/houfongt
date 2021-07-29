@@ -2,15 +2,6 @@
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=FAILED&label=Quahk%20Inc.&logo=globe&up_message=ONLINE&url=https%3A%2F%2Fwww.quahk.com)
 
-## I'm a Web Developer, and Student! 👨‍💻 👨‍🎓
-
-- 🔭 Currently devoting my time in learning JavaScript and Swift!
-- 📖 Sharpening my English skills. 😂
-- 🥅 2021 Goals: Master JavaScript
-- ⚡ Quote that I learned in this week: he that commits a fault thinks everyone speaks of it
-
-<br />
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
@@ -36,6 +27,13 @@
 
 [![Edward's Top Langs](https://github-readme-stats-edwardswalker.vercel.app/api/top-langs/?username=EdwardSwalker&layout=compact)](https://github.com/EdwardSwalker/github-readme-stats)
 </details>
+
+## I'm a Web Developer, and Student! 👨‍💻 👨‍🎓
+
+- 🔭 Currently devoting my time in learning JavaScript and Swift!
+- 📖 Sharpening my English skills. 😂
+- 🥅 2021 Goals: Master JavaScript
+- ⚡ Quote that I learned in this week: he that commits a fault thinks everyone speaks of it
 
 ### Connect with me:
 
