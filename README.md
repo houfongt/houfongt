@@ -79,6 +79,9 @@
 
 ---
 
+[![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardSwalker&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Copyright © 2021 JetBrains s.r.o. WebStorm and the Webstorm logo are registered trademarks of JetBrains s.r.o.
 
 [website]: https://www.quahk.com
