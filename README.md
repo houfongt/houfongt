@@ -1,7 +1,6 @@
 ### Hi there, I'm Edward - also the founder of [Quahk][website] 👋
 
-[![Website](https://img.shields.io/website?label=quahk.com&style=for-the-badge&url=https%3A%2F%2Fquahk.com)](https://quahk.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEdwardSwalker&screen_name=EdwardSwalker)
+![Website](https://img.shields.io/website?down_color=red&down_message=FAILED&label=Quahk%20Inc.&logo=globe&up_message=ONLINE&url=https%3A%2F%2Fwww.quahk.com)
 
 ## I'm a Web Developer, and Student! 👨‍💻 👨‍🎓
 
