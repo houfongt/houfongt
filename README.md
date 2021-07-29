@@ -90,7 +90,7 @@
 </details>
 
 <details>
-<summary>:zap: GitHub stats</summary>
+<summary>:zap: GitHub Stats</summary>
 <br>
 
 [![Edward's GitHub Stats](https://github-readme-stats-edwardswalker.vercel.app/api?username=EdwardSwalker&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/EdwardSwalker/github-readme-stats)
