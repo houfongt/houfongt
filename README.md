@@ -85,14 +85,14 @@
 </details>
 
 <details>
-<summary>GitHub stats</summary>
+<summary>:zap: GitHub stats</summary>
 <br>
 
-[![Edward's GitHub stats](https://github-readme-stats-edwardswalker.vercel.app/api?username=EdwardSwalker&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/EdwardSwalker/github-readme-stats)
+[![Edward's GitHub Stats](https://github-readme-stats-edwardswalker.vercel.app/api?username=EdwardSwalker&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/EdwardSwalker/github-readme-stats)
 </details>
 
 <details>
-<summary>Most Used Languages</summary>
+<summary>:zap: Most Used Languages</summary>
 <br>
 
 [![Edward's Top Langs](https://github-readme-stats-edwardswalker.vercel.app/api/top-langs/?username=EdwardSwalker&layout=compact)](https://github.com/EdwardSwalker/github-readme-stats)
