@@ -6,8 +6,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/2) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
-2. 💪 Opened PR [#2](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/2) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
+1. 🎉 Merged PR [#1](https://github.com/quahk/s5e/pull/1) in [quahk/s5e](https://github.com/quahk/s5e)
+2. 💪 Opened PR [#1](https://github.com/quahk/s5e/pull/1) in [quahk/s5e](https://github.com/quahk/s5e)
 3. 🎉 Merged PR [#1](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/1) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
 4. 💪 Opened PR [#1](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021/pull/1) in [EdwardSwalker/worldskills-mobileDevelopment-2021](https://github.com/EdwardSwalker/worldskills-mobileDevelopment-2021)
 <!--END_SECTION:activity-->
