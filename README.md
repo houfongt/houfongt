@@ -18,14 +18,14 @@
 <summary>:zap: GitHub Stats</summary>
 <br>
 
-[![Edward's GitHub Stats](https://github-readme-stats-edwardswalker.vercel.app/api?username=EdwardSwalker&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/EdwardSwalker/github-readme-stats)
+[![Edward's GitHub Stats](https://github-readme-stats-edwardswalker.vercel.app/api?username=54w1r4&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/54w1r4/github-readme-stats)
 </details>
 
 <details>
 <summary>:zap: Most Used Languages</summary>
 <br>
 
-[![Edward's Top Langs](https://github-readme-stats-edwardswalker.vercel.app/api/top-langs/?username=EdwardSwalker&layout=compact)](https://github.com/EdwardSwalker/github-readme-stats)
+[![Edward's Top Langs](https://github-readme-stats-edwardswalker.vercel.app/api/top-langs/?username=54w1r4&layout=compact)](https://github.com/54w1r4/github-readme-stats)
 </details>
 
 ## I'm a Web Developer, and Student! 👨‍💻 👨‍🎓
