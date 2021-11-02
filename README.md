@@ -6,10 +6,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/quahk/s5e/pull/13) in [quahk/s5e](https://github.com/quahk/s5e)
-2. 💪 Opened PR [#13](https://github.com/quahk/s5e/pull/13) in [quahk/s5e](https://github.com/quahk/s5e)
-3. 🗣 Commented on [#1](https://github.com/54w1r4/worldskills-web-2021/issues/1) in [54w1r4/worldskills-web-2021](https://github.com/54w1r4/worldskills-web-2021)
-4. 🎉 Merged PR [#12](https://github.com/quahk/s5e/pull/12) in [quahk/s5e](https://github.com/quahk/s5e)
+1. 🎉 Merged PR [#14](https://github.com/quahk/s5e/pull/14) in [quahk/s5e](https://github.com/quahk/s5e)
+2. 💪 Opened PR [#14](https://github.com/quahk/s5e/pull/14) in [quahk/s5e](https://github.com/quahk/s5e)
+3. 🎉 Merged PR [#13](https://github.com/quahk/s5e/pull/13) in [quahk/s5e](https://github.com/quahk/s5e)
+4. 💪 Opened PR [#13](https://github.com/quahk/s5e/pull/13) in [quahk/s5e](https://github.com/quahk/s5e)
 <!--END_SECTION:activity-->
 
 </details>
