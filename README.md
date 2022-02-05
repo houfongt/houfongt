@@ -6,10 +6,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/quahk/s5e/pull/18) in [quahk/s5e](https://github.com/quahk/s5e)
-2. 💪 Opened PR [#18](https://github.com/quahk/s5e/pull/18) in [quahk/s5e](https://github.com/quahk/s5e)
-3. 🎉 Merged PR [#17](https://github.com/quahk/s5e/pull/17) in [quahk/s5e](https://github.com/quahk/s5e)
-4. 💪 Opened PR [#17](https://github.com/quahk/s5e/pull/17) in [quahk/s5e](https://github.com/quahk/s5e)
+1. 🎉 Merged PR [#6](https://github.com/54w1r4/worldskills-web-2021/pull/6) in [54w1r4/worldskills-web-2021](https://github.com/54w1r4/worldskills-web-2021)
+2. 🎉 Merged PR [#5](https://github.com/54w1r4/worldskills-web-2021/pull/5) in [54w1r4/worldskills-web-2021](https://github.com/54w1r4/worldskills-web-2021)
+3. 🎉 Merged PR [#18](https://github.com/quahk/s5e/pull/18) in [quahk/s5e](https://github.com/quahk/s5e)
+4. 💪 Opened PR [#18](https://github.com/quahk/s5e/pull/18) in [quahk/s5e](https://github.com/quahk/s5e)
 <!--END_SECTION:activity-->
 
 </details>
