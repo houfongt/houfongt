@@ -6,9 +6,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/IvanPun/Mahjong/pull/1) in [IvanPun/Mahjong](https://github.com/IvanPun/Mahjong)
-2. 🎉 Merged PR [#11](https://github.com/54w1r4/worldskills-web-2021/pull/11) in [54w1r4/worldskills-web-2021](https://github.com/54w1r4/worldskills-web-2021)
-3. 🎉 Merged PR [#7](https://github.com/54w1r4/worldskills-web-2021/pull/7) in [54w1r4/worldskills-web-2021](https://github.com/54w1r4/worldskills-web-2021)
+1. 💪 Opened PR [#2](https://github.com/IvanPun/Mahjong/pull/2) in [IvanPun/Mahjong](https://github.com/IvanPun/Mahjong)
+2. 💪 Opened PR [#1](https://github.com/IvanPun/Mahjong/pull/1) in [IvanPun/Mahjong](https://github.com/IvanPun/Mahjong)
+3. 🎉 Merged PR [#11](https://github.com/54w1r4/worldskills-web-2021/pull/11) in [54w1r4/worldskills-web-2021](https://github.com/54w1r4/worldskills-web-2021)
 4. 🎉 Merged PR [#9](https://github.com/54w1r4/worldskills-web-2021/pull/9) in [54w1r4/worldskills-web-2021](https://github.com/54w1r4/worldskills-web-2021)
 <!--END_SECTION:activity-->
 
