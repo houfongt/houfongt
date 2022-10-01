@@ -18,21 +18,21 @@
 <summary>:zap: GitHub Stats</summary>
 <br>
 
-[![Edward's GitHub Stats](https://github-readme-stats-edwardswalker.vercel.app/api?username=54w1r4&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/54w1r4/github-readme-stats)
+[![Edward's GitHub Stats](https://github-readme-stats-edwardswalker.vercel.app/api?username=houfongt&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/houfongt/github-readme-stats)
 </details>
 
 <details>
 <summary>:zap: Most Used Languages</summary>
 <br>
 
-[![Edward's Top Langs](https://github-readme-stats-edwardswalker.vercel.app/api/top-langs/?username=54w1r4&layout=compact)](https://github.com/54w1r4/github-readme-stats)
+[![Edward's Top Langs](https://github-readme-stats-edwardswalker.vercel.app/api/top-langs/?username=houfongt&layout=compact)](https://github.com/houfongt/github-readme-stats)
 </details>
 
 ## I'm a Web Developer, and Student! 👨‍💻 👨‍🎓
 
 - 🔭 Currently devoting my time in learning JavaScript and Swift!
 - 📖 Sharpening my English skills. 😂
-- 🥅 2021 Goals: Master JavaScript
+- 🥅 2022 Goals: Master Python
 - ⚡ Quote that I learned in this week: he that commits a fault thinks everyone speaks of it
 
 ### Connect with me:
@@ -104,7 +104,7 @@
 
 ---
 
-Copyright © 2021 JetBrains s.r.o. WebStorm and the Webstorm logo are registered trademarks of JetBrains s.r.o.
+Copyright © 2022 JetBrains s.r.o. WebStorm and the Webstorm logo are registered trademarks of JetBrains s.r.o.
 
 [website]: https://www.quahk.com
 [email]: mailto:edward@quahk.com
